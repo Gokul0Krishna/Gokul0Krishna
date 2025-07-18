@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gokul0Krishna
-- 👀 I’m interested in all fields related to coding and programing
-- 🌱 I’m currently learning python
+- 👀 I’m interested in all fields related to Computer vision
+- 🌱 I’m currently learning Pytorch
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me gokul.krishn1.2005@gmail.com 
 
